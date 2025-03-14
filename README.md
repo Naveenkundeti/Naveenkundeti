@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on communication skills, python project
 - 📫 How to reach me 9963465245
 - 😄 Pronouns: HE
-- 
+  
 
 <!---
 Naveenkundeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
