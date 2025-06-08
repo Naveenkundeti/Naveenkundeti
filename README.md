@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Naveenkundeti
-- 👀 I’m interested in Data Analyst and python developer
-- 🌱 I’m currently learning python full stack
-- 💞️ I’m looking to collaborate on communication skills, python project
-- 📫 How to reach me 9963465245
-- 😄 Pronouns: HE
-  
-
-<!---
-Naveenkundeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Naveenkumar
+-🎓 computer Science Graduate | Aspiring Python Backend Developer
+-💻 Skilled in Python | Django | SQL | HTML | CSS | MySQl |
+- Currently Learning : NLP, AI, and Backend Development
+-🧰 Tools I use : Git, GitHub, Vs Code, Chatgpt
+-projects : User Emotion Analysis Using Navie Bayes Classifier
+-Goal : To build scalable web apps and grow as a software Engineer
+-let's connect 🔗www.linkedin.com/in/naveen-kundeti
+-location : Koyyalagudem Andhra Pradesh India
+-📧 Email : kundetinaveen77@gmail.com
+----------
+>⭐ "Stay focused. Keep learning. The Future is yours."
